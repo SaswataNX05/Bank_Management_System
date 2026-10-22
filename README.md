@@ -126,9 +126,6 @@ Bank Management System/
 ├── manifest.mf                         # Application manifest
 ├── jcalendar-tz-1.3.3-4.jar            # Calendar GUI component library
 ├── mysql-connector-java-8.0.28.jar     # MySQL JDBC driver library
-├── nbproject/                          # NetBeans project metadata and properties
-│   ├── project.properties
-│   └── project.xml
 └── src/                                # Application source root (Git repository root)
     ├── README.md                       # Project documentation
     ├── icons/                          # Application image assets
